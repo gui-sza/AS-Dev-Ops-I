@@ -1,0 +1,14 @@
+# Ignora arquivos Python compilados
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+venv/
+.env/
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
